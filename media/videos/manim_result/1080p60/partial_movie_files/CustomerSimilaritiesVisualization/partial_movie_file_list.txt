@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/addel/OneDrive - The Pennsylvania State University/Fall 2024/DS 402/Final Project/media/videos/manim_result/1080p60/partial_movie_files/CustomerSimilaritiesVisualization/2902699114_3786635842_223132457.mp4'
+file 'file:C:/Users/addel/OneDrive - The Pennsylvania State University/Fall 2024/DS 402/Final Project/media/videos/manim_result/1080p60/partial_movie_files/CustomerSimilaritiesVisualization/3931933789_190800790_1567465621.mp4'
+file 'file:C:/Users/addel/OneDrive - The Pennsylvania State University/Fall 2024/DS 402/Final Project/media/videos/manim_result/1080p60/partial_movie_files/CustomerSimilaritiesVisualization/3931933789_971061770_2776343667.mp4'
+file 'file:C:/Users/addel/OneDrive - The Pennsylvania State University/Fall 2024/DS 402/Final Project/media/videos/manim_result/1080p60/partial_movie_files/CustomerSimilaritiesVisualization/3931933789_2292429055_2344818383.mp4'

@@ -118,10 +118,6 @@ class OneHotEncoding(Scene):
         self.wait(2)
 
 
-
-
-
-
         selected_row_index_2 = 2  # Index of 'C001' in new_data (excluding header)
         selected_row_2 = new_table.get_rows()[selected_row_index_2]
         row_rect_2 = SurroundingRectangle(selected_row_2, color=BLUE, buff=0.05)

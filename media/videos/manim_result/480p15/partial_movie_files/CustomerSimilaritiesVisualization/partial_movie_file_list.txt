@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/addel/OneDrive - The Pennsylvania State University/Fall 2024/DS 402/Final Project/media/videos/manim_result/480p15/partial_movie_files/CustomerSimilaritiesVisualization/4266129954_3786635842_223132457.mp4'
+file 'file:C:/Users/addel/OneDrive - The Pennsylvania State University/Fall 2024/DS 402/Final Project/media/videos/manim_result/480p15/partial_movie_files/CustomerSimilaritiesVisualization/1442284246_190800790_1567465621.mp4'
+file 'file:C:/Users/addel/OneDrive - The Pennsylvania State University/Fall 2024/DS 402/Final Project/media/videos/manim_result/480p15/partial_movie_files/CustomerSimilaritiesVisualization/1442284246_971061770_2776343667.mp4'
+file 'file:C:/Users/addel/OneDrive - The Pennsylvania State University/Fall 2024/DS 402/Final Project/media/videos/manim_result/480p15/partial_movie_files/CustomerSimilaritiesVisualization/1442284246_190800790_2344818383.mp4'
+file 'file:C:/Users/addel/OneDrive - The Pennsylvania State University/Fall 2024/DS 402/Final Project/media/videos/manim_result/480p15/partial_movie_files/CustomerSimilaritiesVisualization/1442284246_2524895840_2137999855.mp4'
+file 'file:C:/Users/addel/OneDrive - The Pennsylvania State University/Fall 2024/DS 402/Final Project/media/videos/manim_result/480p15/partial_movie_files/CustomerSimilaritiesVisualization/1442284246_345352296_2631499151.mp4'

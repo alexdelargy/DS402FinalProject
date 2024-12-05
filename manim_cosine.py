@@ -67,7 +67,7 @@ class CosineSimilarity3D(ThreeDScene):
         self.play(Write(angle_text), Write(cosine_text))
 
         # Pause for a moment
-        self.wait(2)
+        self.wait(10)
 
         # Remove first set of vectors
         self.play(FadeOut(vec_a), FadeOut(cosine_text), FadeOut(label_b), FadeOut(vec_b), FadeOut(angle_arc), FadeOut(angle_text))
@@ -107,7 +107,7 @@ class CosineSimilarity3D(ThreeDScene):
         cosine_text_small = MathTex(f"\\cos(\\theta) \\approx {cosine_theta_small:.2f}").next_to(smaller_angle_text, DOWN)
         self.play(Write(smaller_angle_text), Write(cosine_text_small))
 
-        self.wait(2)
+        self.wait(10)
 
         # Remove smaller angle vectors
         self.play(FadeOut(vec_c), FadeOut(cosine_text_small), FadeOut(label_c), FadeOut(smaller_angle_arc), FadeOut(smaller_angle_text))
@@ -147,18 +147,9 @@ class CosineSimilarity3D(ThreeDScene):
         cosine_text_large = MathTex(f"\\cos(\\theta) \\approx {cosine_theta_large:.2f}").next_to(larger_angle_text, DOWN)
         self.play(Write(larger_angle_text), Write(cosine_text_large))
 
-        self.wait(2)
+        self.wait(10)
 
-        # Fade out everything
-        self.play(
-            FadeOut(vec_a),
-            FadeOut(vec_d),
-            FadeOut(larger_angle_arc),
-            FadeOut(larger_angle_text),
-            FadeOut(axes),
-            FadeOut(axes_labels),
-            FadeOut(cosine_text_large)
-        )
+    
 
 scene = CosineSimilarity3D()
 scene.construct()
